@@ -17,3 +17,13 @@ def tiny_url(url):
 url = input("Enter the url to short : ")
 print(tiny_url(url))
 ```
+
+## Run
+
+```
+git clone https://github.com/BasilcM/My-Projects.git
+cd My-Projects\URL Short\
+python URL_Short Python.py
+```
+
+Enter The Input Url 
