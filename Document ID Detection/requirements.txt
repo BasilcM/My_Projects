@@ -37,7 +37,7 @@ packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_15899252
 pdf2image==1.13.1
 pdfminer.six==20200517
 pep8-naming @ file:///home/conda/feedstock_root/build_artifacts/pep8-naming_1593575242270/work
-pikepdf==1.16.1
+pikepdf==2.10.0
 Pillow @ file:///D:/bld/pillow_1593694005242/work
 pluggy @ file:///D:/bld/pluggy_1592827687923/work
 prompt-toolkit==2.0.10
