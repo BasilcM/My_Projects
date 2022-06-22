@@ -30,7 +30,7 @@ mkl-random==1.1.1
 mkl-service==2.3.0
 more-itertools @ file:///home/conda/feedstock_root/build_artifacts/more-itertools_1592197792446/work
 nltk==3.5
-numpy==1.18.5
+numpy==1.22.0
 ocrmypdf==10.2.0
 olefile==0.46
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
