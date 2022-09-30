@@ -22,7 +22,7 @@ humanfriendly==8.2
 IMAPClient==2.1.0
 img2pdf==0.3.6
 importlib-metadata @ file:///D:/bld/importlib-metadata_1593211612489/work
-joblib==0.16.0
+joblib==1.2.0
 lxml==4.6.2
 mccabe==0.6.1
 mkl-fft==1.1.0
