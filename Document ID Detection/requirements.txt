@@ -2,7 +2,7 @@ argcomplete==1.10.0
 atomicwrites @ file:///home/conda/feedstock_root/build_artifacts/atomicwrites_1588182545583/work
 attrs==19.3.0
 beautifulsoup4==4.8.0
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 cliar==1.3.4
